@@ -2,9 +2,9 @@
 
 ### 功能
 
-支持由 总 $\text{Pure}$ 数、大 $\text{Pure}$ 数、$\text{FAR}$ 数、$\text{LOST}$ 数计算得分。
+支持由总Pure数、大Pure数、FAR数、LOST数计算得分。
 
-支持由 定数 和 得分 计算 $\text{Potential}$。
+支持由定数和得分计算Potential。
 
 ### 使用方法
 
