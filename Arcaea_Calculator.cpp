@@ -105,7 +105,7 @@ void ConPrintAt(int x, int y, char *CharBuffer, int len)
 void Menu()
 {
     system("cls");
-    ConPrintAt(21, 3, "Welcome to Arcaea-Checker!!!\n", 29);
+    ConPrintAt(20, 3, "Welcome to Arcaea_Calculator!!!\n", 33);
     ConPrintAt(19, 6, "输入 1 以根据各种按键数量计算得分\n", 33);
     ConPrintAt(19, 9, "输入 2 以根据得分和定数计算 Ptt\n", 32);
     ConPrintAt(27, 12, "输入 0 以退出\n", 15);
