@@ -8,5 +8,5 @@
 
 ### 使用方法
 
-运行 `Checker.exe` 即可。
+运行 `Arcaea_Calculator.exe` 即可。
 
